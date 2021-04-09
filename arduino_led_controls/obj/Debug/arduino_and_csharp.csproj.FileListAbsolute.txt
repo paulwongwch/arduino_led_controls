@@ -1,0 +1,10 @@
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\bin\Debug\arduino_and_csharp.exe.config
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\bin\Debug\arduino_and_csharp.exe
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\bin\Debug\arduino_and_csharp.pdb
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.Form1.resources
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.Properties.Resources.resources
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.exe
+C:\Users\paulw\source\repos\arduino_and_csharp\arduino_and_csharp\obj\Debug\arduino_and_csharp.pdb

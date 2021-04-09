@@ -1,0 +1,10 @@
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\bin\Debug\arduino_led_controls.exe.config
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\bin\Debug\arduino_led_controls.exe
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\bin\Debug\arduino_led_controls.pdb
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.Form1.resources
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.Properties.Resources.resources
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.exe
+C:\Users\paulw\source\repos\arduino_led_controls\arduino_led_controls\obj\Debug\arduino_led_controls.pdb
